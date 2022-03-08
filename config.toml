@@ -1,0 +1,4 @@
+baseURL = 'https://happybara04.github.io/index.html'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "hugo-theme-shell-master"
