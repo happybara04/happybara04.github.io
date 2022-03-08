@@ -1,4 +1,4 @@
-baseURL = 'https://happybara04.github.io/'
+baseURL = 'https://happybara04.github.io/index.html/'
 languageCode = 'en-us'
 title = 'happybara'
 theme = "hugo-theme-shell-master"
