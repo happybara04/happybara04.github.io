@@ -77,9 +77,8 @@ ignoreErrors = ["error-remote-getjson"]
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["C/C++", "https://www.example.com/"],
-    ["post1", "https://happybara04.github.io/index.html/posts/post1"],
-    ["post2", "https://happybara04.github.io/posts/post2"],
-    ["post3", "https://happybara04.github.io/index.html/post3"],
+    ["post1", "posts/post1.md"],
+   
     
   ]
 
