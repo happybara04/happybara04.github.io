@@ -1,4 +1,4 @@
-baseURL = 'https://happybara04.github.io/'
+baseURL = 'https://ionut.github.io/'
 languageCode = 'en-us'
 title = 'happybara'
 theme = "hugo-theme-shell-master"
